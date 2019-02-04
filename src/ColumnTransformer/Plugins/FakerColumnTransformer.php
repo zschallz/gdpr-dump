@@ -20,6 +20,8 @@ class FakerColumnTransformer extends ColumnTransformer
         'currencyCode' => 'currencyCode',
         'country' => 'country',
         'streetAddress' => 'streetAddress',
+        'ipv4' => 'ipv4',
+        'domainName' => 'domainName',
         'name' => 'name',
         'phoneNumber' => 'phoneNumber',
         'username' => 'username',

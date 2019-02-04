@@ -27,7 +27,8 @@
   "extra": {
     "patches": {
       "ifsnop/mysqldump-php": {
-        "Add getter": "https://patch-diff.githubusercontent.com/raw/ifsnop/mysqldump-php/pull/137.patch"
+        "Add getter": "https://patch-diff.githubusercontent.com/raw/ifsnop/mysqldump-php/pull/137.patch",
+        "Allow streams by using stdout": "https://github.com/zschallz/mysqldump-php/commit/314c1ddd0bfd152849fd33a1a6d9951f12ccdb71.patch"
       }
     }
   },
